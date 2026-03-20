@@ -1,0 +1,6 @@
+# Unreal Engine 5 ignore list
+Saved/
+Intermediate/
+DerivedDataCache/
+Build/
+*.log
